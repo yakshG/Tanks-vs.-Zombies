@@ -11,6 +11,7 @@
     <None Include="..\..\Source\Tanks_vs_ZombiesEditor.Target.cs">
       <Filter>Source</Filter>
     </None>
+    <None Include="..\..\.vsconfig" />
     <Filter Include="Config">
       <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
     </Filter>
@@ -29,6 +30,12 @@
     <Filter Include="Source\Tanks_vs_Zombies">
       <UniqueIdentifier>{AF82C206-8A4F-3CEF-9E21-6277F536A145}</UniqueIdentifier>
     </Filter>
+    <ClCompile Include="..\..\Source\Tanks_vs_Zombies\TanksGameMode.cpp">
+      <Filter>Source\Tanks_vs_Zombies</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Tanks_vs_Zombies\TanksGameMode.h">
+      <Filter>Source\Tanks_vs_Zombies</Filter>
+    </ClCompile>
     <None Include="..\..\Source\Tanks_vs_Zombies\Tanks_vs_Zombies.Build.cs">
       <Filter>Source\Tanks_vs_Zombies</Filter>
     </None>

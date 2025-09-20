@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Tanks_vs_ZombiesModuleRules")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Development")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1350e5b443be19e79f64ba2dbaa67e870db04c03")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f34860b6f40977a89635abba722a2fcd79499ffc")]
 [assembly: System.Reflection.AssemblyProductAttribute("Tanks_vs_ZombiesModuleRules")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Tanks_vs_ZombiesModuleRules")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
