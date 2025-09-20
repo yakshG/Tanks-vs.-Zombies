@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Tanks_vs_Zombies",
+			"Path": "..\\Source\\Tanks_vs_Zombies.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Tanks_vs_ZombiesEditor",
+			"Path": "..\\Source\\Tanks_vs_ZombiesEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

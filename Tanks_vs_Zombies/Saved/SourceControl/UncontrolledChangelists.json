@@ -1,0 +1,12 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/projects/github/Tanks-vs.-Zombies/Tanks_vs_Zombies/Content/Maps/L_Main.umap"
+			]
+		}
+	]
+}

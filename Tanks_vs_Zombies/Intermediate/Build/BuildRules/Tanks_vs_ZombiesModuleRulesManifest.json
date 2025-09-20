@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\projects\\github\\Tanks-vs.-Zombies\\Tanks_vs_Zombies\\Source\\Tanks_vs_Zombies\\Tanks_vs_Zombies.Build.cs",
+		"C:\\projects\\github\\Tanks-vs.-Zombies\\Tanks_vs_Zombies\\Source\\Tanks_vs_Zombies.Target.cs",
+		"C:\\projects\\github\\Tanks-vs.-Zombies\\Tanks_vs_Zombies\\Source\\Tanks_vs_ZombiesEditor.Target.cs"
+	],
+	"EngineVersion": "5.5.4"
+}
